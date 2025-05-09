@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Data files
+*.csv
+*.h5
+*.pickle
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local configuration
+config.ini
+secrets.ini
+.env
+
+# Log files
+logs/
+*.log

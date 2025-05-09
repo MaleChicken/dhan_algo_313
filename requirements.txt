@@ -1,0 +1,9 @@
+backtrader>=1.9.76.123  # Using >= to avoid potential version issues
+dhan-tradehull==3.0.6
+pandas
+numpy
+matplotlib
+ta-lib
+pytz
+h5py
+pytest
